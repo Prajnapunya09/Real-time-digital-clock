@@ -1,4 +1,4 @@
-# Digital Clock⏰
+#  Digital Clock⏰
 
 This is a basic digital clock made using HTML, CSS, and JavaScript.  
 It shows the current time in hours, minutes, and seconds — and updates automatically every second. The layout is clean, center-aligned, and designed with a modern dark theme.
