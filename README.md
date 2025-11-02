@@ -18,5 +18,5 @@ It also helped me improve my CSS skills, especially with Flexbox and styling.
 Digital-Clock/
 ├── index.html ← All code (HTML, CSS, and JS) in a single file
 
-### Project Demo
+###  Project Demo
 [▶ Watch Demo](https://github.com/Prajnapunya09/Real-time-digital-clock/blob/main/output%20vedio(digital%20clock).mp4)
