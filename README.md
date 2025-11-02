@@ -9,7 +9,7 @@ It shows the current time in hours, minutes, and seconds — and updates automat
 - Responsive design
 - Simple and easy to understand
 
-### Why I made this
+###  Why I made this
 I created this project to practice working with JavaScript's `Date` object and understand how real-time updates work using `setInterval()`.  
 It also helped me improve my CSS skills, especially with Flexbox and styling.  
 **Built this as part of my front-end practice journey.**
